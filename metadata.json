@@ -1,0 +1,8 @@
+{
+  "name": "Dr. Shadi's Internal Medicine Toolkit",
+  "description": "A smart medical toolkit for Dr. Shadi (4th Year Medical Student) featuring differential diagnosis, X-ray analysis simulation, and case studies.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
